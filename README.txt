@@ -21,8 +21,6 @@ Project Organization
 ├── README.txt         		<- The top-level README for developers using this project.
 │
 ├── Core 	                <- Logging files and dependencies file.
-│ 	├── logdatacleaning
-│ 	├── logdatasegregation
 │ 	├── requirement.txt 	<- Stores all the dependencies of this project
 │
 ├── Resources                   <- Stores files to be used by project.
@@ -82,6 +80,6 @@ Project Organization
 │		├── task2_insightsusingsql.py
 │		├── task8_modeloutputgenerator.py
 │		├── task9_evaluatingmodel.py
-├── Design
-        ├─ G19_Capstone_Report.docx
+├── runtime  <- contains the fastapi implemetation
+        ├─ 
 	
